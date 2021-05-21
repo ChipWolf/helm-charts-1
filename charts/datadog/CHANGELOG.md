@@ -1,5 +1,9 @@
 # Datadog changelog
 
+## 2.14.0
+
+* Bump Agent version to `7.28.0`.
+
 ## 2.13.2
 
 * Fix `YAML parse error on datadog/templates/daemonset.yaml` when autopilot is enabled.
